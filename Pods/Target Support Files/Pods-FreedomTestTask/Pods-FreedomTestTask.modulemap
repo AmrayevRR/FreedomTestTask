@@ -1,0 +1,6 @@
+framework module Pods_FreedomTestTask {
+  umbrella header "Pods-FreedomTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

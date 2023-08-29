@@ -1,0 +1,16 @@
+PODS:
+  - UltraDrawerView (0.7.1)
+
+DEPENDENCIES:
+  - UltraDrawerView
+
+SPEC REPOS:
+  trunk:
+    - UltraDrawerView
+
+SPEC CHECKSUMS:
+  UltraDrawerView: 1c44968534466a6bff965b3a7d7d64caec225d48
+
+PODFILE CHECKSUM: 3a3befec7bb1b317b417c53c75d44ab7054d65ff
+
+COCOAPODS: 1.10.1
